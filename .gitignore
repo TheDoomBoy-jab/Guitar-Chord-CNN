@@ -1,0 +1,18 @@
+# Python & Virtual Environments
+env/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Heavy Datasets (Do NOT push these!)
+Augmented_Data/
+YAMNet_Data/
+
+# Saved Models (Optional, but good practice if they are huge)
+*.h5
+*.keras
+saved_models/
+
+# Mac specific
+.DS_Store

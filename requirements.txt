@@ -1,0 +1,8 @@
+tensorflow
+librosa
+matplotlib
+numpy
+streamlit
+sounddevice
+scipy
+pandas
